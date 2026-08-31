@@ -1,0 +1,13 @@
+# Python / Colab Checkpoints
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Local Data Overrides
+data/large_files/
+*.csv
+*.parquet
+*.zip
+
+# OS Files
+.DS_Store
